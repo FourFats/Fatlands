@@ -1,9 +1,8 @@
 # Fatlands
 Bug tracker and wiki for game Fatlands
 
-Fatlands Intro
+[![Fatlands Intro](https://img.youtube.com/vi/45Dw2eX_zwk/0.jpg)](https://www.youtube.com/watch?v=45Dw2eX_zwk)
 
-https://www.youtube.com/watch?v=45Dw2eX_zwk
 
 Wiki with FAQ
 
