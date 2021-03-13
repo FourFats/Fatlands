@@ -1,6 +1,10 @@
 # Fatlands
 Bug tracker and wiki for game Fatlands
 
+Fatlands Intro
+
+https://www.youtube.com/watch?v=45Dw2eX_zwk
+
 Wiki with FAQ
 
 https://github.com/FourFats/Fatlands/wiki
